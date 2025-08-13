@@ -1,0 +1,11 @@
+{
+  "name": "PersonalMagnet",
+  "version": "1.0.0",
+  "title": "Personal Magnet",
+  "author": "Yevhen Salitrynskyi",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds a Personal Magnet tool that, when used, collects all items on the ground within a radius around the player. Especially useful for collecting resources on Gleba."
+}
